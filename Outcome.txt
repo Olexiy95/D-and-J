@@ -1,0 +1,6 @@
+
+testing won with 5 potions and 0 coins!
+yeah lost with 2 potions and 0 coins.Dog won with 0 potions and 1000 coins!
+Testingfinal won with 2 potions and 0 coins!
+testmedium won with 0 potions and 1000 coins!
+testhard lost with 0 potions and 1000 coins.
