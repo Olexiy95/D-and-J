@@ -7,9 +7,8 @@ public class Validation
 
     public static boolean isBlank(String value)
     {
-
         boolean blank = true;
-        if (value.trim().length > 0)
+        if (value.trim().length() > 0)
             blank = false;
             return blank;
     }

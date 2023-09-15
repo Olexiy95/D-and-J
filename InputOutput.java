@@ -6,12 +6,15 @@ public class InputOutput
 
     public InputOutput()
     {
+
         fileName = "unknown";
+
     }
 
     public InputOutput(String fineName)
     {
-        fineName = newFileName;
+        String newFileName = null;
+        fineName = null;
     }
     
 
